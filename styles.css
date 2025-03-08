@@ -1,0 +1,6 @@
+@media (max-width: 600px) {
+      #navbar {
+        position: static;
+        width: 100%;
+      }
+}
